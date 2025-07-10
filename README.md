@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Teperino Percegoni Figueira  
+**zSevens7 · he/him**
 
-<!--
-**zSevens7/zSevens7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Ciências Exatas (UFJF) e atualmente curso Engenharia Elétrica na mesma universidade.  
+No momento, estou iniciando meus estudos em programação e desenvolvendo projetos pessoais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas que utilizo
+
+**Frontend:**  
+HTML · CSS · JavaScript · React · Tailwind · TypeScript  
+
+**Backend:**  
+Python · Stripe
+
+---
+
+## 🎯 Objetivos de Aprendizado
+
+Em breve pretendo aprender:
+
+- Linguagens C# e Java voltadas para backend  
+- Banco de dados  
+- Cloud Computing (AWS e Google Cloud)
+
+---
+
+## 🚀 Projetos Pessoais
+
+📘 **Monitoria de Conversão Eletromecânica – UFJF (2025)**  
+Desenvolvi conteúdos e resoluções de exercícios com Python voltados para a disciplina:  
+🔗 [MonitoriaConversao](https://github.com/zSevens7/MonitoriaConversao)
+
+🌐 **Meu primeiro site**  
+Desenvolvido com HTML, CSS e JavaScript e atualizado constantemente:  
+🔗 [sevensreview.com.br](https://sevensreview.com.br)
+
+🤖 **Bot de Telegram com Stripe**  
+Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
+
+📚 **Projeto futuro**  
+Pretendo lançar um projeto de visual novel utilizando React + TypeScript.
+
+---
+
+> Obrigado por visitar meu perfil! ✨  
+> Vamos evoluir juntos na jornada da programação!
