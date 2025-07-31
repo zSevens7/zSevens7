@@ -12,7 +12,7 @@ No momento, estou iniciando meus estudos em programação e desenvolvendo projet
 HTML · CSS · JavaScript · React · Tailwind · TypeScript  
 
 **Backend:**  
-Python · Stripe
+Python · Stripe · Java+Swing
 
 ---
 
@@ -38,6 +38,9 @@ Desenvolvido com HTML, CSS e JavaScript e atualizado constantemente:
 
 🤖 **Bot de Telegram com Stripe**  
 Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
+
+📅 **Calendário Universal – Java Swing** 
+Um projeto pessoal para aprender Java e Swing, criando uma aplicação de desktop para gerenciar revezamentos diários. O programa calcula automaticamente os turnos, permite modificações manuais, suporta múltiplos idiomas e exporta o calendário para PDF. 🔗 [CalendarioUniversal](https://github.com/zSevens7/CalendarioUniversal)
 
 📚 **Projeto futuro**  
 Pretendo lançar um projeto de visual novel utilizando React + TypeScript.
