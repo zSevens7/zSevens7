@@ -40,6 +40,7 @@ Desenvolvido com HTML, CSS e JavaScript e atualizado constantemente:
 Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
 
 📅 **Calendário Universal – Java Swing** 
+
 Um projeto pessoal para aprender Java e Swing, criando uma aplicação de desktop para gerenciar revezamentos diários. O programa calcula automaticamente os turnos, permite modificações manuais, suporta múltiplos idiomas e exporta o calendário para PDF. 🔗 [CalendarioUniversal](https://github.com/zSevens7/CalendarioUniversal)
 
 📚 **Projeto futuro**  
