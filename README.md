@@ -20,7 +20,7 @@ Python · Stripe · Java+Swing · Node.js
 
 Em breve pretendo aprender:
 
-- Linguagens C# e Java voltadas para backend  
+- Linguagens C#  voltadas para backend  
 - Banco de dados  
 - Cloud Computing (AWS e Google Cloud)
 
@@ -50,6 +50,10 @@ Lancei um site de web novels utilizando React + TypeScript + Tailwind, com atual
 🎥 **Bot de Clipes para Twitch (Node.js)**  
 Criei um bot para Twitch que gera clipes automaticamente. Para testar, basta digitar **!clipar** no chat quando o streamer estiver online:  
 🔗 [twitch.tv/sinxplaysbr](https://www.twitch.tv/sinxplaysbr)
+
+🤖 **Sevens-Discord-Guide – Bot para Discord**
+Desenvolvi um bot para Discord usando Node.js e Discord.js, com comandos customizados e integração para roles/cargos. O projeto é público, mas o arquivo .env com tokens sensíveis não está incluído no repositório.
+🔗 [Sevens-Discord-Guide](https://github.com/zSevens7/Sevens-Discord-Guide)
 
 ---
 
