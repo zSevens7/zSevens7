@@ -57,6 +57,10 @@ O projeto é público, mas o arquivo `.env` com tokens sensíveis **não está i
 
 🔗 [Sevens-Discord-Guide](https://github.com/zSevens7/Sevens-Discord-Guide)
 
+🌐 **Site da Dra. Fernanda Sena**  
+Refiz o site da clínica da minha cunhada, que antes era apenas uma imagem em WordPress, recriando-o com **React + TypeScript + Tailwind** para transformá-lo em um site real em texto.  
+Durante o processo, também adicionei novas imagens, seções atualizadas e integração com **Google Maps** para localização da clínica.  
+🔗 [drafernandasena.com.br](https://drafernandasena.com.br)
 
 ---
 
