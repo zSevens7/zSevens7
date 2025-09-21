@@ -5,24 +5,20 @@ Sou formado em Ciências Exatas (UFJF) e atualmente curso Engenharia Elétrica n
 No momento, estou iniciando meus estudos em programação e desenvolvendo projetos pessoais.
 
 ---
-
 ## 🛠️ Ferramentas que utilizo
 
-**Frontend:**  
-HTML · CSS · JavaScript · React · Tailwind · TypeScript  
-
-**Backend:**  
-Python · Stripe · Java+Swing · Node.js  
+| **Frontend** | **Backend** |
+|--------------|-------------|
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) ![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?logo=java&logoColor=white) |
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
 
-Em breve pretendo aprender:
-
-- Linguagens C#  voltadas para backend  
-- Banco de dados  
-- Cloud Computing (AWS e Google Cloud)
+- Manter e evoluir o projeto **SevensNovels**, publicando novos capítulos e recursos para praticar continuamente **React + TypeScript**  
+- Aprimorar o sistema **SevensCash**, adicionando funcionalidades e foco em gestão financeira  
+- Concluir o curso de programação da **CODI** e, em seguida, iniciar certificações em **AWS** e **Google Cloud**  
+- Estudar e desenvolver **aplicativos com C#** voltados para backend e desktop  
 
 ---
 
@@ -61,6 +57,12 @@ O projeto é público, mas o arquivo `.env` com tokens sensíveis **não está i
 Refiz o site da clínica da minha cunhada, que antes era apenas uma imagem em WordPress, recriando-o com **React + TypeScript + Tailwind** para transformá-lo em um site real em texto.  
 Durante o processo, também adicionei novas imagens, seções atualizadas e integração com **Google Maps** para localização da clínica.  
 🔗 [drafernandasena.com.br](https://drafernandasena.com.br)
+
+💰 **FinanciaChallenger 1.0.0 – Sistema de Gestão Financeira**  
+Evolução do projeto **Codi Cash**. Transforma a aplicação em uma plataforma de gestão financeira **genérica**, permitindo controle de vendas, despesas e indicadores financeiros.  
+Tecnologias: **React + TypeScript + Tailwind**, **Node.js**, **MySQL**.  
+🔗 [Site funcional](https://www.sevenscash.sevensreview.com.br)  
+🔗 [Repositório no GitHub](https://github.com/zSevens7/FinanciaChallenger)
 
 ---
 
