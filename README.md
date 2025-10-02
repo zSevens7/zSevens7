@@ -64,6 +64,15 @@ Tecnologias: **React + TypeScript + Tailwind**, **Node.js**, **MySQL**.
 🔗 [Site funcional](https://www.sevenscash.sevensreview.com.br)  
 🔗 [Repositório no GitHub](https://github.com/zSevens7/FinanciaChallenger)
 
+🎬 **Video Converter – Conversor de Vídeos com IA**  
+Aplicativo desktop que realiza **upscale de vídeos usando IA (Real-ESRGAN)**, preserva o áudio original e permite escolher qual memória da GPU será usada e a escala do upscale. Suporta **Português (BR), Espanhol e Inglês**, logs de processamento e escolha de pasta de saída.  
+
+**Tecnologias:** React + Electron + TypeScript + Tailwind (Frontend), Python (Backend)  
+
+🔗 [Repositório no GitHub](https://github.com/seu-usuario/VideoConverterApp)
+
+
+
 ---
 
 > Obrigado por visitar meu perfil! ✨  
