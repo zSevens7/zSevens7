@@ -69,7 +69,7 @@ Aplicativo desktop que realiza **upscale de vídeos usando IA (Real-ESRGAN)**, p
 
 **Tecnologias:** **React + Electron + TypeScript + Tailwind (Frontend), Python (Backend)** 
 
-🔗 [Repositório no GitHub](https://github.com/seu-usuario/VideoConverterApp)
+🔗 [Repositório no GitHub](https://github.com/zSevens7/VideoConversorApp)
 
 
 
