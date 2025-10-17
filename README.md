@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou o Gabriel Teperino Percegoni Figueira  
+# 👋 Olá! Eu sou o Gabriel Teperino Percegoni Figueira  
 **zSevens7 · he/him**
 
-Sou formado em Ciências Exatas (UFJF) e atualmente curso Engenharia Elétrica na mesma universidade.  
+Sou formado em Ciências Exatas (UFJF) e atualmente curso Engenharia Elétrica na mesma universidade.  
 No momento, estou iniciando meus estudos em programação e desenvolvendo projetos pessoais.
 
 ---
@@ -15,24 +15,36 @@ No momento, estou iniciando meus estudos em programação e desenvolvendo projet
 
 ## 🎯 Objetivos de Aprendizado
 
-- Manter e evoluir o projeto **SevensNovels**, publicando novos capítulos e recursos para praticar continuamente **React + TypeScript**  
-- Aprimorar o sistema **SevensCash**, adicionando funcionalidades e foco em gestão financeira  
-- Concluir o curso de programação da **CODI** e, em seguida, iniciar certificações em **AWS** e **Google Cloud**  
-- Estudar e desenvolver **aplicativos com C#** voltados para backend e desktop  
+- Manter e evoluir o projeto **SevensNovels**, publicando novos capítulos e recursos para praticar continuamente **React + TypeScript**  
+- Aprimorar o sistema **SevensCash**, adicionando funcionalidades e foco em gestão financeira  
+- Concluir o curso de programação da **CODI** e, em seguida, iniciar certificações em **AWS** e **Google Cloud**  
+- Estudar e desenvolver **aplicativos com C#** voltados para backend e desktop  
 
 ---
 
 ## 🚀 Projetos Pessoais
 
-📘 **Monitoria de Conversão Eletromecânica – UFJF (2025)**  
-Desenvolvi conteúdos e resoluções de exercícios com Python voltados para a disciplina:  
-🔗 [MonitoriaConversao](https://github.com/zSevens7/MonitoriaConversao)
+### 💻 Aplicações Full-Stack & Desktop
 
-### 🌐 **Meu Primeiro Site**
+**🎬 Video Converter – Conversor de Vídeos com IA**  
+Aplicativo desktop que realiza **upscale de vídeos usando IA (Real-ESRGAN)**, preserva o áudio original e permite escolher qual memória da GPU será usada e a escala do upscale. Suporta **Português (BR), Espanhol e Inglês**, logs de processamento e escolha de pasta de saída.  
+**Tecnologias:** **React + Electron + TypeScript + Tailwind (Frontend), Python (Backend)** 
+🔗 [Repositório no GitHub](https://github.com/zSevens7/VideoConversorApp)
 
-Meu projeto principal e portfólio de reviews: **Sevens Review**
+**💰 FinanciaChallenger 1.0.0 – Sistema de Gestão Financeira**  
+Evolução do projeto **Codi Cash**. Transforma a aplicação em uma plataforma de gestão financeira **genérica**, permitindo controle de vendas, despesas e indicadores financeiros.  
+**Tecnologias:** **React + TypeScript + Tailwind**, **Node.js**, **MySQL**.  
+🔗 [Site funcional](https://www.sevenscash.sevensreview.com.br)  
+🔗 [Repositório no GitHub](https://github.com/zSevens7/FinanciaChallenger)
 
-Desenvolvido como uma **Single Page Application (SPA)** moderna, utilizando:
+**📅 Calendário Universal – Java Swing**  
+Um projeto pessoal para aprender Java e Swing, criando uma aplicação de desktop para gerenciar revezamentos diários. O programa calcula automaticamente os turnos, permite modificações manuais, suporta múltiplos idiomas e exporta o calendário para PDF.  
+🔗 [CalendarioUniversal](https://github.com/zSevens7/CalendarioUniversal)
+
+### 🌐 Single Page Applications (SPA)
+
+**📰 Sevens Review (Meu Projeto Principal)**  
+Meu portfólio de reviews. Desenvolvido como uma **Single Page Application (SPA)** moderna, utilizando:  
 ⚛️ **React** (com Vite) | 🎨 **Tailwind CSS** (para estilização rápida e responsiva) | 🚀 **React Router DOM** (para as rotas)
 
 | Recurso | Status |
@@ -40,48 +52,42 @@ Desenvolvido como uma **Single Page Application (SPA)** moderna, utilizando:
 | **Site Online** | 🔗 [sevensreview.com.br](https://sevensreview.com.br) |
 | **Código Fonte** | ⭐ [zSevens7/SevensReview](https://github.com/zSevens7/SevensReview) |
 
-🤖 **Bot de Telegram com Stripe**  
-Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
-
-📅 **Calendário Universal – Java Swing**  
-Um projeto pessoal para aprender Java e Swing, criando uma aplicação de desktop para gerenciar revezamentos diários. O programa calcula automaticamente os turnos, permite modificações manuais, suporta múltiplos idiomas e exporta o calendário para PDF.  
-🔗 [CalendarioUniversal](https://github.com/zSevens7/CalendarioUniversal)
-
-📖 **SevensNovels – Site de Web Novels**  
-Lancei um site de web novels utilizando React + TypeScript + Tailwind, com atualização constante de capítulos e volumes.  
+**📖 SevensNovels – Site de Web Novels**  
+Site de web novels utilizando React + TypeScript + Tailwind, com atualização constante de capítulos e volumes.  
 🔗 [sevensnovels.com.br](https://sevensnovels.com.br)
 
-🎥 **Bot de Clipes para Twitch (Node.js)**  
-Criei um bot para Twitch que gera clipes automaticamente. Para testar, basta digitar **!clipar** no chat quando o streamer estiver online:  
-🔗 [twitch.tv/sinxplaysbr](https://www.twitch.tv/sinxplaysbr)
-
-🤖 **Sevens-Discord-Guide – Bot para Discord**  
-Desenvolvi um bot para Discord usando **Node.js** e **Discord.js**, com comandos customizados e integração para roles/cargos.  
-O projeto é público, mas o arquivo `.env` com tokens sensíveis **não está incluído** no repositório.  
-
-🔗 [Sevens-Discord-Guide](https://github.com/zSevens7/Sevens-Discord-Guide)
-
-🌐 **Site da Dra. Fernanda Sena**  
-Refiz o site da clínica da minha cunhada, que antes era apenas uma imagem em WordPress, recriando-o com **React + TypeScript + Tailwind** para transformá-lo em um site real em texto.  
-Durante o processo, também adicionei novas imagens, seções atualizadas e integração com **Google Maps** para localização da clínica.  
+**🌐 Site da Dra. Fernanda Sena (Freelance)**  
+Refiz o site da clínica da minha cunhada, recriando-o com **React + TypeScript + Tailwind** e adicionando integração com **Google Maps**.  
 🔗 [drafernandasena.com.br](https://drafernandasena.com.br)
 
-💰 **FinanciaChallenger 1.0.0 – Sistema de Gestão Financeira**  
-Evolução do projeto **Codi Cash**. Transforma a aplicação em uma plataforma de gestão financeira **genérica**, permitindo controle de vendas, despesas e indicadores financeiros.  
-Tecnologias: **React + TypeScript + Tailwind**, **Node.js**, **MySQL**.  
-🔗 [Site funcional](https://www.sevenscash.sevensreview.com.br)  
-🔗 [Repositório no GitHub](https://github.com/zSevens7/FinanciaChallenger)
+### 🤖 Bots e Automação
 
-🎬 **Video Converter – Conversor de Vídeos com IA**  
-Aplicativo desktop que realiza **upscale de vídeos usando IA (Real-ESRGAN)**, preserva o áudio original e permite escolher qual memória da GPU será usada e a escala do upscale. Suporta **Português (BR), Espanhol e Inglês**, logs de processamento e escolha de pasta de saída.  
+**🤖 Bot de Telegram com Stripe**  
+Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
 
-**Tecnologias:** **React + Electron + TypeScript + Tailwind (Frontend), Python (Backend)** 
+**🎥 Bot de Clipes para Twitch (Node.js)**  
+Criei um bot para Twitch que gera clipes automaticamente. Para testar, basta digitar **!clipar** no chat quando o streamer estiver online:  
+🔗 [twitch.tv/sinxplaysbr](https://www.twitch.tv/sinxplaysbr)
 
-🔗 [Repositório no GitHub](https://github.com/zSevens7/VideoConversorApp)
+**🤖 Sevens-Discord-Guide – Bot para Discord**  
+Desenvolvi um bot para Discord usando **Node.js** e **Discord.js**, com comandos customizados e integração para roles/cargos.  
+🔗 [Sevens-Discord-Guide](https://github.com/zSevens7/Sevens-Discord-Guide)
 
+### 📚 Acadêmico
 
+**📘 Monitoria de Conversão Eletromecânica – UFJF (2025)**  
+Desenvolvi conteúdos e resoluções de exercícios com Python voltados para a disciplina:  
+🔗 [MonitoriaConversao](https://github.com/zSevens7/MonitoriaConversao)
 
 ---
 
-> Obrigado por visitar meu perfil! ✨  
+## 🤝 Conecte-se Comigo
+
+| | |
+| :--- | :--- |
+| **LinkedIn** | [Gabriel Teperino](https://www.linkedin.com/in/gabriel-teperino-b9aa00327/) |
+
+---
+
+> Obrigado por visitar meu perfil! ✨  
 > Vamos evoluir juntos na jornada da programação!
