@@ -28,9 +28,17 @@ No momento, estou iniciando meus estudos em programação e desenvolvendo projet
 Desenvolvi conteúdos e resoluções de exercícios com Python voltados para a disciplina:  
 🔗 [MonitoriaConversao](https://github.com/zSevens7/MonitoriaConversao)
 
-🌐 **Meu primeiro site**  
-Desenvolvido com HTML, CSS e JavaScript e atualizado constantemente:  
-🔗 [sevensreview.com.br](https://sevensreview.com.br)
+### 🌐 **Meu Primeiro Site**
+
+Meu projeto principal e portfólio de reviews: **Sevens Review**
+
+Desenvolvido como uma **Single Page Application (SPA)** moderna, utilizando:
+⚛️ **React** (com Vite) | 🎨 **Tailwind CSS** (para estilização rápida e responsiva) | 🚀 **React Router DOM** (para as rotas)
+
+| Recurso | Status |
+| :--- | :--- |
+| **Site Online** | 🔗 [sevensreview.com.br](https://sevensreview.com.br) |
+| **Código Fonte** | ⭐ [zSevens7/SevensReview](https://github.com/zSevens7/SevensReview) |
 
 🤖 **Bot de Telegram com Stripe**  
 Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
