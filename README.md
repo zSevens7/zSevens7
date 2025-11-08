@@ -1,10 +1,14 @@
-# 👋 Olá! Eu sou o Gabriel Teperino Percegoni Figueira  
+# 👋 Olá! Eu sou o Gabriel Teperino Percegoni Figueira
 **zSevens7 · he/him**
 
-Sou formado em Ciências Exatas (UFJF) e atualmente curso Engenharia Elétrica na mesma universidade.  
-No momento, estou iniciando meus estudos em programação e desenvolvendo projetos pessoais.
+Sou formado em **Ciências Exatas (UFJF)**, atualmente curso **Engenharia Elétrica**,  
+e sou **Desenvolvedor Web Fullstack formado pela CODI Academy (2025)**.
+
+Tenho foco em **React + TypeScript**, desenvolvimento de sistemas completos,  
+aplicações desktop, bots e automações.
 
 ---
+
 ## 🛠️ Ferramentas que utilizo
 
 | **Frontend** | **Backend** |
@@ -13,12 +17,23 @@ No momento, estou iniciando meus estudos em programação e desenvolvendo projet
 
 ---
 
-## 🎯 Objetivos de Aprendizado
+## 🎓 Certificação
 
-- Manter e evoluir o projeto **SevensNovels**, publicando novos capítulos e recursos para praticar continuamente **React + TypeScript**  
-- Aprimorar o sistema **SevensCash**, adicionando funcionalidades e foco em gestão financeira  
-- Concluir o curso de programação da **CODI** e, em seguida, iniciar certificações em **AWS** e **Google Cloud**  
-- Estudar e desenvolver **aplicativos com C#** voltados para backend e desktop  
+**Desenvolvedor Web Fullstack — CODI Academy (2025)**  
+• Código da credencial: `#e8f7fc4b7806eeca`  
+• HTML5, CSS, JavaScript, Bootstrap, React, TypeScript, Vue.js e mais.
+
+---
+
+## 🎯 Objetivos Atuais
+
+- Evoluir o **SevensNovels**, com atualizações constantes (Death Mage — Volume 9 já publicado)  
+- Continuar expandindo o **SevensReview**, com reviews novas semanalmente  
+- Finalizar melhorias do **FinanciaChallenger**, adicionando novos módulos de gestão financeira  
+- Criar o **aplicativo CSV → JSON**, baseado no meu script em Node.js  
+- Retomar e concluir meu projeto em **C (CheckPesagem)**  
+- Estudar mais sobre **Cloud (AWS e Google Cloud)**  
+- Desenvolver futuros aplicativos desktop (Electron, Java e C#)
 
 ---
 
@@ -26,68 +41,87 @@ No momento, estou iniciando meus estudos em programação e desenvolvendo projet
 
 ### 💻 Aplicações Full-Stack & Desktop
 
-**🎬 Video Converter – Conversor de Vídeos com IA**  
-Aplicativo desktop que realiza **upscale de vídeos usando IA (Real-ESRGAN)**, preserva o áudio original e permite escolher qual memória da GPU será usada e a escala do upscale. Suporta **Português (BR), Espanhol e Inglês**, logs de processamento e escolha de pasta de saída.  
-**Tecnologias:** **React + Electron + TypeScript + Tailwind (Frontend), Python (Backend)** 
-🔗 [Repositório no GitHub](https://github.com/zSevens7/VideoConversorApp)
+**🎬 Video Converter – Conversor de Vídeos com IA**  
+Aplicativo desktop com **upscale usando Real-ESRGAN**, suporte a idiomas, escolha de GPU, logs e sistema de presets.  
+**Tecnologias:** React + Electron + TypeScript + Tailwind | Python (backend)  
+🔗 https://github.com/zSevens7/VideoConversorApp
 
-**💰 FinanciaChallenger 1.0.0 – Sistema de Gestão Financeira**  
-Evolução do projeto **Codi Cash**. Transforma a aplicação em uma plataforma de gestão financeira **genérica**, permitindo controle de vendas, despesas e indicadores financeiros.  
-**Tecnologias:** **React + TypeScript + Tailwind**, **Node.js**, **MySQL**.  
-🔗 [Site funcional](https://www.sevenscash.sevensreview.com.br)  
-🔗 [Repositório no GitHub](https://github.com/zSevens7/FinanciaChallenger)
+**💰 FinanciaChallenger – Sistema de Gestão Financeira**  
+Evolução do “Codi Cash”. Sistema completo para controle financeiro, vendas e relatórios.  
+**Tecnologias:** React + TypeScript + Tailwind | Node.js | MySQL  
+🔗 Site: https://www.sevenscash.sevensreview.com.br  
+🔗 Repositório: https://github.com/zSevens7/FinanciaChallenger
 
-**📅 Calendário Universal – Java Swing**  
-Um projeto pessoal para aprender Java e Swing, criando uma aplicação de desktop para gerenciar revezamentos diários. O programa calcula automaticamente os turnos, permite modificações manuais, suporta múltiplos idiomas e exporta o calendário para PDF.  
-🔗 [CalendarioUniversal](https://github.com/zSevens7/CalendarioUniversal)
+**📅 Calendário Universal – Java Swing**  
+Aplicação desktop para gerenciamento de revezamentos diários, com suporte a PDF, idiomas e edição manual.  
+🔗 https://github.com/zSevens7/CalendarioUniversal
+
+---
 
 ### 🌐 Single Page Applications (SPA)
 
-**📰 Sevens Review (Meu Projeto Principal)**  
-Meu portfólio de reviews. Desenvolvido como uma **Single Page Application (SPA)** moderna, utilizando:  
-⚛️ **React** (com Vite) | 🎨 **Tailwind CSS** (para estilização rápida e responsiva) | 🚀 **React Router DOM** (para as rotas)
+**📰 Sevens Review (Meu Projeto Principal)**  
+SPA moderna de reviews, construída com React + Tailwind + Vite.  
+| Recurso | Link |
+|--------|------|
+| **Site Online** | https://sevensreview.com.br |
+| **Código Fonte** | https://github.com/zSevens7/SevensReview |
 
-| Recurso | Status |
-| :--- | :--- |
-| **Site Online** | 🔗 [sevensreview.com.br](https://sevensreview.com.br) |
-| **Código Fonte** | ⭐ [zSevens7/SevensReview](https://github.com/zSevens7/SevensReview) |
+**📖 SevensNovels – Web Novels (Death Mage – Volume 9)**  
+Site em React + TS dedicado às minhas traduções e projetos de leitura.  
+🔗 https://sevensnovels.com.br
 
-**📖 SevensNovels – Site de Web Novels**  
-Site de web novels utilizando React + TypeScript + Tailwind, com atualização constante de capítulos e volumes.  
-🔗 [sevensnovels.com.br](https://sevensnovels.com.br)
+**🌐 Site da Dra. Fernanda Sena (Freelance)**  
+Site recriado com React + TS + Tailwind e integração com Google Maps.  
+🔗 https://drafernandasena.com.br
 
-**🌐 Site da Dra. Fernanda Sena (Freelance)**  
-Refiz o site da clínica da minha cunhada, recriando-o com **React + TypeScript + Tailwind** e adicionando integração com **Google Maps**.  
-🔗 [drafernandasena.com.br](https://drafernandasena.com.br)
+---
 
-### 🤖 Bots e Automação
+## 🧪 Projetos de Estudo e Laboratório
 
-**🤖 Bot de Telegram com Stripe**  
-Gerencio um bot com integração de pagamentos via Stripe (código privado a pedido da cliente).
+### 🧰 CheckPesagem – Aprendizado em C  
+Projeto criado para estudar C, leitura de arquivos e lógica de validação. (Em pausa temporária.)  
+🔗 https://github.com/zSevens7/CheckPesagem
 
-**🎥 Bot de Clipes para Twitch (Node.js)**  
-Criei um bot para Twitch que gera clipes automaticamente. Para testar, basta digitar **!clipar** no chat quando o streamer estiver online:  
-🔗 [twitch.tv/sinxplaysbr](https://www.twitch.tv/sinxplaysbr)
+### 📁 CSV → JSON Converter (Futuro App)  
+Ferramenta Node.js capaz de:  
+✔ Ler CSVs  
+✔ Limpar colunas  
+✔ Converter para JSON  
+✔ Agrupar automaticamente por ano  
+Será convertido em **aplicativo desktop**.  
+🔗 Código interno (local)
 
-**🤖 Sevens-Discord-Guide – Bot para Discord**  
-Desenvolvi um bot para Discord usando **Node.js** e **Discord.js**, com comandos customizados e integração para roles/cargos.  
-🔗 [Sevens-Discord-Guide](https://github.com/zSevens7/Sevens-Discord-Guide)
+---
 
-### 📚 Acadêmico
+## 🤖 Bots e Automação
 
-**📘 Monitoria de Conversão Eletromecânica – UFJF (2025)**  
-Desenvolvi conteúdos e resoluções de exercícios com Python voltados para a disciplina:  
-🔗 [MonitoriaConversao](https://github.com/zSevens7/MonitoriaConversao)
+**🤖 Bot de Telegram com Stripe** — pagamentos automatizados (privado).  
+
+**🎥 Bot de Clipes para Twitch** — gera clipes com comando `!clipar`.  
+🔗 https://www.twitch.tv/sinxplaysbr
+
+**🤖 Sevens-Discord-Guide** — bot com roles automáticas e comandos personalizados.  
+🔗 https://github.com/zSevens7/Sevens-Discord-Guide
+
+---
+
+## 📚 Acadêmico
+
+**📘 Monitoria de Conversão Eletromecânica – UFJF (2025)**  
+Produção de material, exercícios resolvidos e simulações em Python.  
+🔗 https://github.com/zSevens7/MonitoriaConversao
 
 ---
 
 ## 🤝 Conecte-se Comigo
 
 | | |
-| :--- | :--- |
-| **LinkedIn** | [Gabriel Teperino](https://www.linkedin.com/in/gabriel-teperino-b9aa00327/) |
+|---|---|
+| **LinkedIn** | https://www.linkedin.com/in/gabriel-teperino-b9aa00327/ |
 
 ---
 
-> Obrigado por visitar meu perfil! ✨  
+> Obrigado por visitar meu perfil! ✨  
 > Vamos evoluir juntos na jornada da programação!
+
