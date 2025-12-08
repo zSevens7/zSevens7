@@ -19,8 +19,7 @@ aplicações desktop, bots e automações.
 
 ## 🎓 Certificação
 
-**Desenvolvedor Web Fullstack — CODI Academy (2025)**  
-• Código da credencial: `#e8f7fc4b7806eeca`  
+**Desenvolvedor Web Fullstack — CODI Academy (2025)** • Código da credencial: `#e8f7fc4b7806eeca`  
 • HTML5, CSS, JavaScript, Bootstrap, React, TypeScript, Vue.js e mais.
 
 ---
@@ -29,11 +28,7 @@ aplicações desktop, bots e automações.
 
 - Evoluir o **SevensNovels**, com atualizações constantes (Death Mage — Volume 9 já publicado)  
 - Continuar expandindo o **SevensReview**, com reviews novas semanalmente  
-- Finalizar melhorias do **FinanciaChallenger**, adicionando novos módulos de gestão financeira  
-- Criar o **aplicativo CSV → JSON**, baseado no meu script em Node.js  
-- Retomar e concluir meu projeto em **C (CheckPesagem)**  
-- Estudar mais sobre **Cloud (AWS e Google Cloud)**  
-- Desenvolver futuros aplicativos desktop (Electron, Java e C#)
+- Retomar e concluir meu projeto em **C (CheckPesagem)** - Estudar mais sobre **Cloud (AWS e Google Cloud)** - Desenvolver futuros aplicativos desktop (Electron, Java e C#)
 
 ---
 
@@ -41,38 +36,37 @@ aplicações desktop, bots e automações.
 
 ### 💻 Aplicações Full-Stack & Desktop
 
-**🎬 Video Converter – Conversor de Vídeos com IA**  
-Aplicativo desktop com **upscale usando Real-ESRGAN**, suporte a idiomas, escolha de GPU, logs e sistema de presets.  
+**🏥 AnesthPredict – Preditor de Risco Anestésico (Offline)** Aplicação desktop de suporte à decisão clínica com IA (Machine Learning) integrada. Roda 100% offline.  
+**Tecnologias:** Electron + React + TypeScript | Python (FastAPI + XGBoost)  
+🔗 https://github.com/zSevens7/AnesthPredict
+
+**🎬 Video Converter – Conversor de Vídeos com IA** Aplicativo desktop com **upscale usando Real-ESRGAN**, suporte a idiomas, escolha de GPU, logs e sistema de presets.  
 **Tecnologias:** React + Electron + TypeScript + Tailwind | Python (backend)  
 🔗 https://github.com/zSevens7/VideoConversorApp
 
-**💰 FinanciaChallenger – Sistema de Gestão Financeira**  
-Evolução do “Codi Cash”. Sistema completo para controle financeiro, vendas e relatórios.  
+**💰 FinanciaChallenger – Sistema de Gestão Financeira** Evolução do “Codi Cash”. Sistema completo para controle financeiro, vendas e relatórios.  
 **Tecnologias:** React + TypeScript + Tailwind | Node.js | MySQL  
 🔗 Site: https://www.sevenscash.sevensreview.com.br  
 🔗 Repositório: https://github.com/zSevens7/FinanciaChallenger
 
-**📅 Calendário Universal – Java Swing**  
-Aplicação desktop para gerenciamento de revezamentos diários, com suporte a PDF, idiomas e edição manual.  
+**📅 Calendário Universal – Java Swing** Aplicação desktop para gerenciamento de revezamentos diários, com suporte a PDF, idiomas e edição manual.  
 🔗 https://github.com/zSevens7/CalendarioUniversal
 
 ---
 
 ### 🌐 Single Page Applications (SPA)
 
-**📰 Sevens Review (Meu Projeto Principal)**  
-SPA moderna de reviews, construída com React + Tailwind + Vite.  
+**📰 Sevens Review (Meu Projeto Principal)** SPA moderna de reviews, construída com React + Tailwind + Vite.  
 | Recurso | Link |
 |--------|------|
 | **Site Online** | https://sevensreview.com.br |
 | **Código Fonte** | https://github.com/zSevens7/SevensReview |
+| **Ferramenta Auxiliar** | [CSV to JSON Converter (Desktop)](https://github.com/zSevens7/CSV-JSON-Converter) |
 
-**📖 SevensNovels – Web Novels (Death Mage – Volume 9)**  
-Site em React + TS dedicado às minhas traduções e projetos de leitura.  
+**📖 SevensNovels – Web Novels (Death Mage – Volume 9)** Site em React + TS dedicado às minhas traduções e projetos de leitura.  
 🔗 https://sevensnovels.com.br
 
-**🌐 Site da Dra. Fernanda Sena (Freelance)**  
-Site recriado com React + TS + Tailwind e integração com Google Maps.  
+**🌐 Site da Dra. Fernanda Sena (Freelance)** Site recriado com React + TS + Tailwind e integração com Google Maps.  
 🔗 https://drafernandasena.com.br
 
 ---
@@ -82,15 +76,6 @@ Site recriado com React + TS + Tailwind e integração com Google Maps.
 ### 🧰 CheckPesagem – Aprendizado em C  
 Projeto criado para estudar C, leitura de arquivos e lógica de validação. (Em pausa temporária.)  
 🔗 https://github.com/zSevens7/CheckPesagem
-
-### 📁 CSV → JSON Converter (Futuro App)  
-Ferramenta Node.js capaz de:  
-✔ Ler CSVs  
-✔ Limpar colunas  
-✔ Converter para JSON  
-✔ Agrupar automaticamente por ano  
-Será convertido em **aplicativo desktop**.  
-🔗 Código interno (local)
 
 ---
 
@@ -108,8 +93,7 @@ Será convertido em **aplicativo desktop**.
 
 ## 📚 Acadêmico
 
-**📘 Monitoria de Conversão Eletromecânica – UFJF (2025)**  
-Produção de material, exercícios resolvidos e simulações em Python.  
+**📘 Monitoria de Conversão Eletromecânica – UFJF (2025)** Produção de material, exercícios resolvidos e simulações em Python.  
 🔗 https://github.com/zSevens7/MonitoriaConversao
 
 ---
@@ -124,4 +108,3 @@ Produção de material, exercícios resolvidos e simulações em Python.
 
 > Obrigado por visitar meu perfil! ✨  
 > Vamos evoluir juntos na jornada da programação!
-
