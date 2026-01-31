@@ -79,9 +79,14 @@ Projeto criado para estudar C, leitura de arquivos e lógica de validação. (Em
 
 ---
 
-## 🤖 Bots e Automação
+## 🤖 Automação & Scripts
 
-**🤖 Bot de Telegram com Stripe** — pagamentos automatizados (privado).  
+**🔄 Cloudflare Video Matcher (Freelance)** Script de engenharia de dados para cruzamento massivo de informações (CSV vs API).  
+**Destaque:** Recuperou automaticamente 998 vídeos utilizando lógica de *fuzzy matching* e regex, superando a estimativa manual do cliente.  
+**Tecnologias:** Python | Pandas | Requests | REST API  
+🔗 https://github.com/zSevens7/cloudflare-video-matcher
+
+**🤖 Bot de Telegram com Stripe** — pagamentos automatizados (privado).
 
 **🎥 Bot de Clipes para Twitch** — gera clipes com comando `!clipar`.  
 🔗 https://www.twitch.tv/sinxplaysbr
