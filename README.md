@@ -1,115 +1,78 @@
-# 👋 Olá! Eu sou o Gabriel Teperino Percegoni Figueira
-**zSevens7 · he/him**
+# 👋 Olá! Eu sou o Gabriel Teperino (zSevens7)
 
-Sou formado em **Ciências Exatas (UFJF)**, atualmente curso **Engenharia Elétrica**,  
-e sou **Desenvolvedor Web Fullstack formado pela CODI Academy (2025)**.
-
-Tenho foco em **React + TypeScript**, desenvolvimento de sistemas completos,  
-aplicações desktop, bots e automações.
+Sou formado em **Ciências Exatas (UFJF)**, estudante de **Engenharia Elétrica** e **Desenvolvedor Fullstack**.
+Tenho foco em **React + TypeScript**, desenvolvendo desde aplicações desktop robustas até automações inteligentes.
 
 ---
 
-## 🛠️ Ferramentas que utilizo
+## 🛠️ Tech Stack
 
-| **Frontend** | **Backend** |
-|--------------|-------------|
-| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) ![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?logo=java&logoColor=white) |
+<div align="center">
 
----
+| **Frontend** | **Backend & Desktop** | **Banco de Dados & Outros** |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) <br> ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) <br> ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
 
-## 🎓 Certificação
-
-**Desenvolvedor Web Fullstack — CODI Academy (2025)** • Código da credencial: `#e8f7fc4b7806eeca`  
-• HTML5, CSS, JavaScript, Bootstrap, React, TypeScript, Vue.js e mais.
+</div>
 
 ---
 
-## 🎯 Objetivos Atuais
+## 🚀 Projetos Principais
+*Aplicações Full-Stack e Desktop focadas em performance e utilidade.*
 
-- Evoluir o **SevensNovels**, com atualizações constantes (Death Mage — Volume 9 já publicado)  
-- Continuar expandindo o **SevensReview**, com reviews novas semanalmente  
-- Retomar e concluir meu projeto em **C (CheckPesagem)** - Estudar mais sobre **Cloud (AWS e Google Cloud)** - Desenvolver futuros aplicativos desktop (Electron, Java e C#)
-
----
-
-## 🚀 Projetos Pessoais
-
-### 💻 Aplicações Full-Stack & Desktop
-
-**🏥 AnesthPredict – Preditor de Risco Anestésico (Offline)** Aplicação desktop de suporte à decisão clínica com IA (Machine Learning) integrada. Roda 100% offline.  
-**Tecnologias:** Electron + React + TypeScript | Python (FastAPI + XGBoost)  
-🔗 https://github.com/zSevens7/AnesthPredict
-
-**🎬 Video Converter – Conversor de Vídeos com IA** Aplicativo desktop com **upscale usando Real-ESRGAN**, suporte a idiomas, escolha de GPU, logs e sistema de presets.  
-**Tecnologias:** React + Electron + TypeScript + Tailwind | Python (backend)  
-🔗 https://github.com/zSevens7/VideoConversorApp
-
-**💰 FinanciaChallenger – Sistema de Gestão Financeira** Evolução do “Codi Cash”. Sistema completo para controle financeiro, vendas e relatórios.  
-**Tecnologias:** React + TypeScript + Tailwind | Node.js | MySQL  
-🔗 Site: https://www.sevenscash.sevensreview.com.br  
-🔗 Repositório: https://github.com/zSevens7/FinanciaChallenger
-
-**📅 Calendário Universal – Java Swing** Aplicação desktop para gerenciamento de revezamentos diários, com suporte a PDF, idiomas e edição manual.  
-🔗 https://github.com/zSevens7/CalendarioUniversal
+| Projeto | Descrição | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **🏥 AnesthPredict** | Preditor de Risco Anestésico com IA (Machine Learning). Roda 100% offline para suporte clínico. | ![Electron](https://img.shields.io/badge/-Electron-gray) ![Python](https://img.shields.io/badge/-Python-blue) | [🔗 Repo](https://github.com/zSevens7/AnesthPredict) |
+| **🎬 Video Converter** | Conversor desktop com IA (Upscale Real-ESRGAN), escolha de GPU e sistema de presets. | ![React](https://img.shields.io/badge/-React-blue) ![Electron](https://img.shields.io/badge/-Electron-gray) | [🔗 Repo](https://github.com/zSevens7/VideoConversorApp) |
+| **💰 FinanciaChallenger** | Sistema completo de gestão financeira e vendas (Evolução do Codi Cash). | ![React](https://img.shields.io/badge/-React-blue) ![Node](https://img.shields.io/badge/-Node-green) ![MySQL](https://img.shields.io/badge/-MySQL-orange) | [🔗 Repo](https://github.com/zSevens7/FinanciaChallenger)<br>[🌐 Site](https://www.sevenscash.sevensreview.com.br) |
+| **📅 Calendário Universal** | Gerenciador desktop de escalas e revezamentos diários com exportação em PDF. | ![Java](https://img.shields.io/badge/-Java%20Swing-red) | [🔗 Repo](https://github.com/zSevens7/CalendarioUniversal) |
 
 ---
 
-### 🌐 Single Page Applications (SPA)
+## 🌐 Web & SPA
+*Single Page Applications modernas e sites responsivos.*
 
-**📰 Sevens Review (Meu Projeto Principal)** SPA moderna de reviews, construída com React + Tailwind + Vite.  
-| Recurso | Link |
-|--------|------|
-| **Site Online** | https://sevensreview.com.br |
-| **Código Fonte** | https://github.com/zSevens7/SevensReview |
-| **Ferramenta Auxiliar** | [CSV to JSON Converter (Desktop)](https://github.com/zSevens7/CSV-JSON-Converter) |
-
-**📖 SevensNovels – Web Novels (Death Mage – Volume 9)** Site em React + TS dedicado às minhas traduções e projetos de leitura.  
-🔗 https://sevensnovels.com.br
-
-**🌐 Site da Dra. Fernanda Sena (Freelance)** Site recriado com React + TS + Tailwind e integração com Google Maps.  
-🔗 https://drafernandasena.com.br
+| Projeto | Descrição | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **📰 Sevens Review** | **(Projeto Principal)** SPA moderna de reviews de entretenimento. | ![React](https://img.shields.io/badge/-React-blue) ![Vite](https://img.shields.io/badge/-Vite-purple) | [🔗 Repo](https://github.com/zSevens7/SevensReview)<br>[🌐 Site](https://sevensreview.com.br) |
+| **📖 SevensNovels** | Plataforma de Web Novels (Death Mage - Vol 9). | ![React](https://img.shields.io/badge/-React-blue) ![TS](https://img.shields.io/badge/-TS-blue) | [🌐 Site](https://sevensnovels.com.br) |
+| **🩺 Dra. Fernanda Sena** | Site profissional para área médica com integração Google Maps. | ![React](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) | [🌐 Site](https://drafernandasena.com.br) |
 
 ---
 
-## 🧪 Projetos de Estudo e Laboratório
+## 🤖 Automação & Bots
+*Scripts de engenharia de dados e bots para plataformas.*
 
-### 🧰 CheckPesagem – Aprendizado em C  
-Projeto criado para estudar C, leitura de arquivos e lógica de validação. (Em pausa temporária.)  
-🔗 https://github.com/zSevens7/CheckPesagem
-
----
-
-## 🤖 Automação & Scripts
-
-**🔄 Cloudflare Video Matcher (Freelance)** Script de engenharia de dados para cruzamento massivo de informações (CSV vs API).  
-**Destaque:** Recuperou automaticamente 998 vídeos utilizando lógica de *fuzzy matching* e regex, superando a estimativa manual do cliente.  
-**Tecnologias:** Python | Pandas | Requests | REST API  
-🔗 https://github.com/zSevens7/cloudflare-video-matcher
-
-**🤖 Bot de Telegram com Stripe** — pagamentos automatizados (privado).
-
-**🎥 Bot de Clipes para Twitch** — gera clipes com comando `!clipar`.  
-🔗 https://www.twitch.tv/sinxplaysbr
-
-**🤖 Sevens-Discord-Guide** — bot com roles automáticas e comandos personalizados.  
-🔗 https://github.com/zSevens7/Sevens-Discord-Guide
+| Projeto | O que faz? | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **🤖 Fiscal PDF Automator** | **(Novo)** Consolida PDFs fiscais, soma valores de compensação e gera relatórios automáticos. | ![Python](https://img.shields.io/badge/-Python-blue) ![PDFPlumber](https://img.shields.io/badge/-PDF-red) | [🔗 Repo](https://github.com/zSevens7/fiscal-pdf-automator) |
+| **🔄 Cloudflare Video Matcher** | Recuperou 998 vídeos via *fuzzy matching* e Regex (Engenharia de Dados). | ![Python](https://img.shields.io/badge/-Python-blue) ![Pandas](https://img.shields.io/badge/-Pandas-150458) | [🔗 Repo](https://github.com/zSevens7/cloudflare-video-matcher) |
+| **🎥 Bot Twitch** | Bot para gerar clipes automáticos com comando `!clipar`. | ![Node](https://img.shields.io/badge/-Node-green) | [🔗 Twitch](https://www.twitch.tv/sinxplaysbr) |
+| **🤖 Discord Guide** | Bot com sistema de roles automáticas e comandos. | ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2) | [🔗 Repo](https://github.com/zSevens7/Sevens-Discord-Guide) |
 
 ---
 
-## 📚 Acadêmico
+## 🎓 Educação & Certificações
 
-**📘 Monitoria de Conversão Eletromecânica – UFJF (2025)** Produção de material, exercícios resolvidos e simulações em Python.  
-🔗 https://github.com/zSevens7/MonitoriaConversao
-
----
-
-## 🤝 Conecte-se Comigo
-
-| | |
-|---|---|
-| **LinkedIn** | https://www.linkedin.com/in/gabriel-teperino-b9aa00327/ |
+| Formação | Detalhes |
+| :--- | :--- |
+| **Desenvolvedor Fullstack** | **CODI Academy (2025)** • `#e8f7fc4b7806eeca`<br>Foco em React, TypeScript, Vue.js e arquitetura de sistemas. |
+| **Ciências Exatas** | **UFJF** (Bacharelado) |
+| **Engenharia Elétrica** | **UFJF** (Em curso) • Monitoria em Conversão Eletromecânica (Python/Simulações). |
 
 ---
 
-> Obrigado por visitar meu perfil! ✨  
-> Vamos evoluir juntos na jornada da programação!
+## 🎯 Próximos Passos
+- [ ] **SevensNovels:** Lançar atualizações constantes.
+- [ ] **Estudos:** Aprofundar em **Cloud (AWS/GCP)** e **C**.
+- [ ] **Apps:** Desenvolver novos apps desktop em Electron e C#.
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teperino-b9aa00327/)
+<br>
+Let's code the future! 🚀
+
+</div>
