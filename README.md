@@ -25,11 +25,10 @@ Tenho foco em **React + TypeScript**, além de forte atuação em **automação,
 
 | Projeto | Descrição | Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **🏭 Emulsion Analytics** | **(Freelance / Case Real)** Dashboard de BI Industrial desenvolvido sob demanda para cliente. Conexão em tempo real e previsão de demanda com IA. | ![Python](https://img.shields.io/badge/-Python-blue) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75) | [🔗 Repo](https://github.com/zSevens7/dashboard-producao-emulsao) |
 | **🏥 AnesthPredict** | Preditor de Risco Anestésico com IA (Machine Learning). Roda 100% offline para suporte clínico. | ![Electron](https://img.shields.io/badge/-Electron-gray) ![Python](https://img.shields.io/badge/-Python-blue) | [🔗 Repo](https://github.com/zSevens7/AnesthPredict) |
 | **🎬 Video Converter** | Conversor desktop com IA (Upscale Real-ESRGAN), escolha de GPU e sistema de presets. | ![React](https://img.shields.io/badge/-React-blue) ![Electron](https://img.shields.io/badge/-Electron-gray) | [🔗 Repo](https://github.com/zSevens7/VideoConversorApp) |
 | **💰 FinanciaChallenger** | Sistema completo de gestão financeira e vendas. | ![React](https://img.shields.io/badge/-React-blue) ![Node](https://img.shields.io/badge/-Node-green) ![MySQL](https://img.shields.io/badge/-MySQL-orange) | [🔗 Repo](https://github.com/zSevens7/FinanciaChallenger)<br>[🌐 Site](https://www.sevenscash.sevensreview.com.br) |
-| **📅 Calendário Universal** | Gerenciador desktop de escalas e revezamentos diários com exportação em PDF. | ![Java](https://img.shields.io/badge/-Java%20Swing-red) | [🔗 Repo](https://github.com/zSevens7/CalendarioUniversal) |
-
 ---
 
 ## 🌐 Web & SPA
