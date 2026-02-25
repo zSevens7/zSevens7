@@ -53,9 +53,7 @@ Tenho foco em **React + TypeScript**, além de forte atuação em **automação,
 | **🔄 Cloudflare Video Matcher** | Engenharia de dados com *fuzzy matching* e Regex para recuperação automatizada de ativos via API. | ![Python](https://img.shields.io/badge/-Python-blue) ![Pandas](https://img.shields.io/badge/-Pandas-150458) | [🔗 Repo](https://github.com/zSevens7/cloudflare-video-matcher) |
 | **📄 Fiscal PDF Automator** | Extração, consolidação e geração automática de relatórios fiscais a partir de PDFs. | ![Python](https://img.shields.io/badge/-Python-blue) ![PDFPlumber](https://img.shields.io/badge/-PDF-red) | [🔗 Repo](https://github.com/zSevens7/fiscal-pdf-automator) |
 | **⚡ Automação Energia Fatura (Equatorial Cyborg)** | RPA completo para download automatizado de faturas, extração estruturada de dados via PDF parsing e geração de relatórios financeiros em Excel com regra de competência automática. | ![Python](https://img.shields.io/badge/-Python-blue) ![Selenium](https://img.shields.io/badge/-Selenium-green) ![Pandas](https://img.shields.io/badge/-Pandas-150458) | [🔗 Repo](https://github.com/zSevens7/AutomacaoEnergiaFatura) |
-
-
----
+| **🏋️ Automação TecnoFit (RPA)** | RPA avançado para cadastro autônomo de treinos em interface web opaca (FlutterFlow/Canvas). Superou o desafio de bloqueio de DOM utilizando mapeamento de pixels, Visão Computacional (OpenCV) e PyAutoGUI integrados ao Pandas. | ![Python](https://img.shields.io/badge/-Python-blue) ![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-orange) ![OpenCV](https://img.shields.io/badge/-OpenCV-red) ![Pandas](https://img.shields.io/badge/-Pandas-150458) | [🔗 Repo](https://github.com/zSevens7/CamilaTecnoFit) |
 
 ## 🤖 Automação & Bots
 *Bots e scripts para plataformas e fluxos automatizados.*
