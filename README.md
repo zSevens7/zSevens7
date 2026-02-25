@@ -37,6 +37,7 @@ Tenho foco em **React + TypeScript**, além de forte atuação em **automação,
 
 | Projeto | Descrição | Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **🧠 Emocionalmente Forte** | **(Freelance)** Plataforma Full-stack com sistema de Quiz interativo para captação e triagem de pacientes focado em maturidade emocional. | ![React](https://img.shields.io/badge/-React-blue) ![Node](https://img.shields.io/badge/-Node-green) ![MySQL](https://img.shields.io/badge/-MySQL-orange) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) | [🌐 Site](https://emocionalmenteforte.com/) |
 | **📰 Sevens Review** | **(Projeto Principal)** SPA moderna de reviews de entretenimento. | ![React](https://img.shields.io/badge/-React-blue) ![Vite](https://img.shields.io/badge/-Vite-purple) | [🔗 Repo](https://github.com/zSevens7/SevensReview)<br>[🌐 Site](https://sevensreview.com.br) |
 | **📖 SevensNovels** | Plataforma de Web Novels. | ![React](https://img.shields.io/badge/-React-blue) ![TS](https://img.shields.io/badge/-TS-blue) | [🌐 Site](https://sevensnovels.com.br) |
 | **🩺 Dra. Fernanda Sena** | Site profissional para área médica com integração Google Maps. | ![React](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) | [🌐 Site](https://drafernandasena.com.br) |
@@ -61,8 +62,9 @@ Tenho foco em **React + TypeScript**, além de forte atuação em **automação,
 
 | Projeto | O que faz? | Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **🎥 Bot Twitch** | Bot para gerar clipes automáticos com comando `!clipar`. | ![Node](https://img.shields.io/badge/-Node-green) | [🔗 Twitch](https://www.twitch.tv/sinxplaysbr) |
-| **🤖 Discord Guide** | Bot com sistema de roles automáticas e comandos. | ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2) | [🔗 Repo](https://github.com/zSevens7/Sevens-Discord-Guide) |
+| **👗 Starla Cosplay Bot** | **(Freelance)** Bot de Telegram para automação de vendas de cosplay. Integra pagamentos (**Stripe + Asaas**), gerencia a remoção automática de usuários em grupos VIP via banco de dados **MySQL**, e sincroniza registros financeiros e fluxos de dados em tempo real no **Google Sheets**. | ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-sheets&logoColor=white) | [🔒 Privado] |
+| **🎥 Bot Twitch** | Bot para gerar clipes automáticos com comando `!clipar`. | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | [🔗 Twitch](https://www.twitch.tv/sinxplaysbr) |
+| **🤖 Discord Guide** | Bot com sistema de roles automáticas e comandos. | ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white) | [🔗 Repo](https://github.com/zSevens7/Sevens-Discord-Guide) |
 
 ---
 
