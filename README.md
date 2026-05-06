@@ -41,6 +41,7 @@ Tenho foco em **React + TypeScript**, além de forte atuação em **automação,
 | **📰 Sevens Review** | **(Projeto Principal)** SPA moderna de reviews de entretenimento. | ![React](https://img.shields.io/badge/-React-blue) ![Vite](https://img.shields.io/badge/-Vite-purple) | [🔗 Repo](https://github.com/zSevens7/SevensReview)<br>[🌐 Site](https://sevensreview.com.br) |
 | **📖 SevensNovels** | Plataforma de Web Novels. | ![React](https://img.shields.io/badge/-React-blue) ![TS](https://img.shields.io/badge/-TS-blue) | [🌐 Site](https://sevensnovels.com.br) |
 | **🩺 Dra. Fernanda Sena** | Site profissional para área médica com integração Google Maps. | ![React](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) | [🌐 Site](https://drafernandasena.com.br) |
+| **📰 A TARDE** | **(Freelance)** Desenvolvimento e refatoração da estrutura da página Home, Artigo e Footer do jornal, focando em layout responsivo e componentes otimizados. | ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) | [🌐 Site](https://atarde.com.br/) |
 
 ---
 
