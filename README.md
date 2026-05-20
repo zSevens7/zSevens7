@@ -42,6 +42,7 @@ Tenho foco em **React + TypeScript**, além de forte atuação em **automação,
 | **📖 SevensNovels** | Plataforma de Web Novels. | ![React](https://img.shields.io/badge/-React-blue) ![TS](https://img.shields.io/badge/-TS-blue) | [🌐 Site](https://sevensnovels.com.br) |
 | **🩺 Dra. Fernanda Sena** | Site profissional para área médica com integração Google Maps. | ![React](https://img.shields.io/badge/-React-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) | [🌐 Site](https://drafernandasena.com.br) |
 | **📰 A TARDE** | **(Freelance)** Desenvolvimento e refatoração da estrutura da página Home, Artigo e Footer do jornal, focando em layout responsivo e componentes otimizados. | ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) | [🌐 Site](https://atarde.com.br/) |
+| **✈️ Syncros ATC** | **(Freelance)** Sistema Full-stack corporativo para gestão e conciliação inteligente de escalas na aviação. Possui um motor automatizado para agendamento de formações distribuídas por múltiplos sítios e horários, controlo de disponibilidade de instrutores em tempo real e painel administrativo avançado. | ![React](https://img.shields.io/badge/-React-blue) ![TS](https://img.shields.io/badge/-TS-blue) ![Node](https://img.shields.io/badge/-Node-green) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![Tailwind](https://img.shields.io/badge/-Tailwind-cyan) | [🌐 Link](https://syncros.atcaviacao.com.br/)<br>*(Acesso Restrito)* |
 
 ---
 
